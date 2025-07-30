@@ -4,3 +4,4 @@ package-lock.json
 
 # Compiled output
 dist/
+config.bat

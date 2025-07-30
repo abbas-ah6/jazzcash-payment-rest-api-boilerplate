@@ -17,7 +17,7 @@ Whether you're building an e-commerce platform, a donation portal, or any other 
 
 ---
 
-## Installation
+## Installation (No implemented yet)
 
-```bash (No implemented yet)
+```bash
 npm install jazzcash-payment-rest-api-boilerplate
